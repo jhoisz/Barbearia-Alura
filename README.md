@@ -1,11 +1,11 @@
 # :scissors: Barbearia Alura
 
-Site desenvolvido durante a série de cursos de **HTML e CSS**, do instrutor [Pedro Marins](https://cursos.alura.com.br/user/opedromarins), na plataforma [Alura](https://www.alura.com.br/).
+Site desenvolvido durante a série de cursos de **HTML e CSS**, do instrutor [Pedro Marins](https://cursos.alura.com.br/user/opedromarins), na plataforma de ensino de tecnologia [Alura](https://www.alura.com.br/). Abaixo a lista dos cursos:
 
-- [HTML5 e CSS3 parte 1: crie uma página da Web](https://cursos.alura.com.br/course/html5-css3-primeiros-passos)
-- [HTML5 e CSS3 parte 2: posicionamento, listas e navegação](https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao)
-- [HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas](https://cursos.alura.com.br/course/html5-css3-formularios-tabelas) 
-- [HTML5 e CSS3 parte 4: avançando no CSS](https://cursos.alura.com.br/course/html5-css3-avancando-css). 
+1. [HTML5 e CSS3 parte 1: crie uma página da Web](https://cursos.alura.com.br/course/html5-css3-primeiros-passos)
+2. [HTML5 e CSS3 parte 2: posicionamento, listas e navegação](https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao)
+3. [HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas](https://cursos.alura.com.br/course/html5-css3-formularios-tabelas) 
+4. [HTML5 e CSS3 parte 4: avançando no CSS](https://cursos.alura.com.br/course/html5-css3-avancando-css). 
  
  O objetivo do site é apresentar o conteúdo de uma barbearia fictícia chamada "Barbearia Alura", com uma **página principal**, **página de contatos** e **página de produtos.**
  
