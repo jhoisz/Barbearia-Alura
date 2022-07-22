@@ -13,6 +13,8 @@ Site desenvolvido durante a série de cursos de **HTML e CSS**, do instrutor [Pe
  
 O site apresenta uma página principal com as informações básicas (sobre, localização, benefícios e um vídeo), uma página de produtos com o que a barbearia oferece (Cabelo, barba e cabelo+barba) e, por fim, uma página de contatos com um formulário de contato para o usuário preencher e uma tabela de horários de funcionamento.
 
+![](barbearia-alura.gif)
+
  ## :computer: Tecnologias utilizadas
  - `HTML`: Linguagem de marcação para criação de páginas na Web.
  - `CSS`: Linguagem de estilos utilizada para separar estética do funcionamento da página.
