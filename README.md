@@ -27,7 +27,7 @@ O site apresenta uma página principal com as informações básicas (sobre, loc
  
  **ou**
  
- 2. Usar o Git e clonar este repositório com o seguinte comando: 
+ 2. Usar o [Git](https://git-scm.com/about) e clonar este repositório com o seguinte comando: 
  ```bash
  # No terminal do git bash:
  git clone https://github.com/jhoisz/Barbearia-Alura.git
